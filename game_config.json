@@ -1,0 +1,62 @@
+{
+    "game_settings": {
+        "easy": {
+            "words": [
+                "cat",
+                "dog",
+                "sun",
+                "run",
+                "hat",
+                "car",
+                "tree",
+                "book",
+                "bird",
+                "fish",
+                "ball",
+                "home",
+                "moon",
+                "star",
+                "cake"
+            ],
+            "max_attempts": 16
+
+        },
+        "medium": {
+            "words": [
+                "python",
+                "coding",
+                "robot",
+                "pizza",
+                "music",
+                "dance",
+                "smile",
+                "quick",
+                "jump",
+                "brave",
+                "ocean",
+                "river",
+                "storm",
+                "plant",
+                "crown"
+            ],
+            "max_attempts": 10
+                },
+        "hard": {
+            "words": [
+                "algorithm",
+                "javascript",
+                "complexity",
+                "quantum",
+                "telescope",
+                "symphony",
+                "xylophone",
+                "galaxy",
+                "whisper",
+                "phantom",
+                "labyrinth",
+                "serendipity",
+                "metamorphosis",
+                "equilibrium",
+                "renaissance"
+            ],
+            "max_attempts": 6     }}}
